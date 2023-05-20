@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Onyeaghala
 =========================================================================================================================================
 
-Data Analyst | Data Scientist
+Data Analyst | Data Scientist | Help businesses make data-driven decisions and build AI-Powered data products
 -----------------------------
 
 I am a highly skilled professional in Business Analytics, Data Analytics, and Data Science, with expertise in analytical tools and programming languages. Demonstrated my abilities through impactful projects and possesses strong leadership skills.
